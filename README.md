@@ -10,3 +10,4 @@ cd Node_Nginx/
 ```bash
 docker-compose up -d 
 ```
+O projeto irá rodar na porta 8080
